@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Awesome Virtual Classroom banner">
+  <title>Awesome Virtual Classroom</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#1e1b4b;#0f172a" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#312e81">
+        <animate attributeName="stop-color" values="#312e81;#6d28d9;#312e81" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0e7490">
+        <animate attributeName="stop-color" values="#0e7490;#1d4ed8;#0e7490" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dd3fc">
+        <animate attributeName="stop-color" values="#7dd3fc;#a78bfa;#7dd3fc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f0abfc">
+        <animate attributeName="stop-color" values="#f0abfc;#67e8f9;#f0abfc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <circle cx="600" cy="150" r="130" fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="2" stroke-dasharray="10 14">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 150" to="360 600 150" dur="45s" repeatCount="indefinite"/>
+  </circle>
+
+  <ellipse cx="600" cy="150" rx="540" ry="120" fill="url(#glow)">
+    <animate attributeName="rx" values="540;580;540" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g opacity="0.6">
+    <circle cx="110" cy="70" r="10" fill="#22d3ee">
+      <animate attributeName="cy" values="70;260;70" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="50" r="6" fill="#a78bfa">
+      <animate attributeName="cy" values="50;280;50" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="40" r="8" fill="#f472b6">
+      <animate attributeName="cy" values="40;290;40" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="60" r="5" fill="#34d399">
+      <animate attributeName="cy" values="60;270;60" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="50" r="9" fill="#fbbf24">
+      <animate attributeName="cy" values="50;280;50" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1085" cy="80" r="7" fill="#60a5fa">
+      <animate attributeName="cy" values="80;260;80" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(60, 72)">
+    <rect x="0" y="0" width="120" height="80" rx="16" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.35)" stroke-width="2"/>
+    <polygon points="48,20 48,60 88,40" fill="#7dd3fc">
+      <animate attributeName="opacity" values="1;0.6;1" dur="2.4s" repeatCount="indefinite"/>
+    </polygon>
+    <rect x="32" y="88" width="56" height="8" rx="4" fill="rgba(255,255,255,0.35)"/>
+    <rect x="54" y="96" width="16" height="10" rx="2" fill="rgba(255,255,255,0.25)"/>
+  </g>
+
+  <g transform="translate(990, 64)">
+    <rect x="0" y="0" width="150" height="92" rx="18" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.35)" stroke-width="2"/>
+    <line x1="22" y1="28" x2="128" y2="28" stroke="rgba(255,255,255,0.45)" stroke-width="6" stroke-linecap="round">
+      <animate attributeName="x2" values="60;128;60" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="22" y1="50" x2="100" y2="50" stroke="rgba(255,255,255,0.3)" stroke-width="6" stroke-linecap="round">
+      <animate attributeName="x2" values="40;100;40" dur="3.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="22" y1="72" x2="84" y2="72" stroke="rgba(255,255,255,0.2)" stroke-width="6" stroke-linecap="round">
+      <animate attributeName="x2" values="30;84;30" dur="4.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <text x="600" y="132" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="url(#titleGrad)" letter-spacing="1">Awesome Virtual Classroom</text>
+
+  <text x="600" y="186" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="500" fill="rgba(226,232,240,0.92)" letter-spacing="3">SAAS PLATFORMS · OPEN-SOURCE PROJECTS · ONLINE TEACHING</text>
+
+  <line x1="380" y1="216" x2="820" y2="216" stroke="url(#titleGrad)" stroke-width="3" stroke-linecap="round" stroke-dasharray="440" stroke-dashoffset="440">
+    <animate attributeName="stroke-dashoffset" values="440;0" dur="2s" begin="0.8s" fill="freeze"/>
+  </line>
+
+  <circle cx="600" cy="252" r="8" fill="#f43f5e">
+    <animate attributeName="r" values="8;12;8" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="620" y="258" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#fecdd3" letter-spacing="2">LIVE LEARNING</text>
+</svg>
