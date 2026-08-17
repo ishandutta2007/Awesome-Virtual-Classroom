@@ -59,41 +59,45 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)**  
+*(Sorted by GitHub stars, descending — badge links to each repo's stargazers page.)*
 
-  The leading open-source virtual classroom platform (LGPL). Built specifically for education with multi-user whiteboard, breakout rooms, polling, shared notes, recording, learning analytics, and deep LMS integrations (Moodle, Canvas, etc.). Highly scalable with load balancers (Scalelite, etc.).
-
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)**  
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
 
   Popular open-source (Apache 2.0) WebRTC video conferencing platform. Easy self-hosting, end-to-end encryption options, screen sharing, chat, recording (via Jibri), mobile apps, and no account required for participants. Excellent general-purpose and education use.
 
-- **[OpenMeetings](https://github.com/apache/openmeetings)**  
+- **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)** [![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton.svg?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)  
 
-  Apache open-source web conferencing and collaboration system with video/audio, whiteboard, chat, file sharing, recording, and virtual meeting rooms suitable for classrooms and group work.
+  The leading open-source virtual classroom platform (LGPL). Built specifically for education with multi-user whiteboard, breakout rooms, polling, shared notes, recording, learning analytics, and deep LMS integrations (Moodle, Canvas, etc.). Highly scalable with load balancers (Scalelite, etc.).
 
-- **[Nextcloud Talk](https://github.com/nextcloud/spreed)**  
-
-  Open-source video/audio calling and chat integrated into Nextcloud. Self-hosted, privacy-focused, supports screen sharing and group calls; ideal when already using Nextcloud for files and collaboration.
-
-- **[Galene](https://github.com/jech/galene)**  
-
-  Lightweight, easy-to-deploy open-source videoconferencing server (MIT). Focuses on simplicity, performance, and self-hosting for smaller to medium groups.
-
-- **[MiroTalk](https://github.com/miroslavpejic85)** (SFU / P2P variants)  
+- **[MiroTalk](https://github.com/miroslavpejic85/mirotalk)** [![GitHub stars](https://img.shields.io/github/stars/miroslavpejic85/mirotalk.svg?style=social&color=white)](https://github.com/miroslavpejic85/mirotalk/stargazers) (SFU / P2P variants)  
 
   Self-hosted open-source WebRTC video conferencing solutions with different architectures (SFU and P2P) for flexible deployment.
 
-- **[PlugNMeet](https://github.com/mynaparrot/plugNmeet-server)**  
+- **[Nextcloud Talk](https://github.com/nextcloud/spreed)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/spreed.svg?style=social&color=white)](https://github.com/nextcloud/spreed/stargazers)  
+
+  Open-source video/audio calling and chat integrated into Nextcloud. Self-hosted, privacy-focused, supports screen sharing and group calls; ideal when already using Nextcloud for files and collaboration.
+
+- **[Galene](https://github.com/jech/galene)** [![GitHub stars](https://img.shields.io/github/stars/jech/galene.svg?style=social&color=white)](https://github.com/jech/galene/stargazers)  
+
+  Lightweight, easy-to-deploy open-source videoconferencing server (MIT). Focuses on simplicity, performance, and self-hosting for smaller to medium groups.
+
+- **[eduMEET](https://github.com/edumeet/edumeet)** [![GitHub stars](https://img.shields.io/github/stars/edumeet/edumeet.svg?style=social&color=white)](https://github.com/edumeet/edumeet/stargazers) / community instances  
+
+  Open-source video conferencing platform supported by research/education networks (GÉANT ecosystem) for academic use.
+
+- **[OpenMeetings](https://github.com/apache/openmeetings)** [![GitHub stars](https://img.shields.io/github/stars/apache/openmeetings.svg?style=social&color=white)](https://github.com/apache/openmeetings/stargazers)  
+
+  Apache open-source web conferencing and collaboration system with video/audio, whiteboard, chat, file sharing, recording, and virtual meeting rooms suitable for classrooms and group work.
+
+- **[PlugNMeet](https://github.com/mynaparrot/plugNmeet-server)** [![GitHub stars](https://img.shields.io/github/stars/mynaparrot/plugNmeet-server.svg?style=social&color=white)](https://github.com/mynaparrot/plugNmeet-server/stargazers)  
 
   Modern open-source WebRTC-based conferencing platform optimized for performance and low latency, suitable for virtual classrooms and meetings.
 
 - **[OpenTalk](https://opentalk.eu/)** (and related European open-source efforts)  
 
-  Privacy- and security-focused open-source conferencing solutions often used in education and public-sector deployments in Europe.
+  Privacy- and security-focused open-source conferencing solutions often used in education and public-sector deployments in Europe. Source code is hosted on GitLab ([gitlab.opencode.de/opentalk](https://gitlab.opencode.de/opentalk)) — there is no GitHub repository, so no GitHub star badge is available.
 
-- **[eduMEET](https://github.com/)** / community instances  
-
-  Open-source video conferencing platform supported by research/education networks (GÉANT ecosystem) for academic use.
+*Star counts fetched from the GitHub API on August 17, 2026. Each badge links to that repository's stargazers page.*
 
 
 
