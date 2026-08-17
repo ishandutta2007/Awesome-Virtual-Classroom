@@ -1,4 +1,4 @@
-# Awesome-Virtual-Classroom
+# 🎓 Awesome-Virtual-Classroom
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -6,13 +6,13 @@
   <img src="assets/banner.svg" alt="Awesome Virtual Classroom banner" width="100%" />
 </p>
 
-## Top Virtual Classroom Platforms Ecosystem
+## 🏫 Top Virtual Classroom Platforms Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+**📋 Curated List of SaaS Products & Open-Source GitHub Projects**
 
-*Focused on Online Teaching, Live Classes, Breakout Rooms, Whiteboards, Polling, LMS Integration & Interactive Learning*
+*🎯 Focused on Online Teaching, Live Classes, Breakout Rooms, Whiteboards, Polling, LMS Integration & Interactive Learning*
 
-**Last updated: August 2026**
+**🕒 Last updated: August 2026**
 
 
 
@@ -20,19 +20,19 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 
 
-**Examples** include Zoom, Google Meet, Microsoft Teams, BigBlueButton, Class Technologies, LearnCube, Electa Live, Adobe Connect, Engageli, and ClickMeeting (the category leaders).
+**💡 Examples** include Zoom, Google Meet, Microsoft Teams, BigBlueButton, Class Technologies, LearnCube, Electa Live, Adobe Connect, Engageli, and ClickMeeting (the category leaders).
 
 
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, education-specific features, privacy, and full control — ideal for schools, universities, training organizations, and developers building transparent virtual learning environments.
+**🌱 Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, education-specific features, privacy, and full control — ideal for schools, universities, training organizations, and developers building transparent virtual learning environments.
 
 
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🤗 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
@@ -44,7 +44,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Description | Pricing (starting tier) | Free tier limits | Company size (revenue / valuation) |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Open-Source GitHub Projects
+## 🐙 Open-Source GitHub Projects
 
 *(Sorted by GitHub stars, descending — badge links to each repo's stargazers page.)*
 
@@ -107,7 +107,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-### Additional Strong Open-Source Options
+### ➕ Additional Strong Open-Source Options
 
 - **LMS platforms with built-in or deep virtual classroom integration**: Moodle (with BigBlueButton plugin), Canvas LMS (open core), Open edX, Chamilo, ClassroomIO, LearnHouse — all self-hostable.
 
@@ -123,27 +123,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-**Frameworks for building custom systems**: Combine **BigBlueButton** or **Jitsi Meet** as the core real-time engine with an open-source LMS (Moodle/Canvas/Open edX), Scalelite for scaling, Greenlight or custom frontends for room management, and tools like n8n or custom scripts for attendance/recording workflows. Ideal for full data ownership, GDPR compliance, and institutional control.
+**🛠️ Frameworks for building custom systems**: Combine **BigBlueButton** or **Jitsi Meet** as the core real-time engine with an open-source LMS (Moodle/Canvas/Open edX), Scalelite for scaling, Greenlight or custom frontends for room management, and tools like n8n or custom scripts for attendance/recording workflows. Ideal for full data ownership, GDPR compliance, and institutional control.
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
+1. 🍴 Fork the repo.
 
-2. Add/edit entries in `README.md` (follow existing format).
+2. ✏️ Add/edit entries in `README.md` (follow existing format).
 
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+3. 📝 Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
 
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
+4. 🚀 Submit PR with a short explanation.
 
 
 
-## Disclaimer
+⭐ Star the repo if you find it useful!
+
+
+
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 
@@ -155,12 +155,12 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for educators, instructional designers, schools, universities, and edtech developers.**  
+**❤️ Made for educators, instructional designers, schools, universities, and edtech developers.**  
 
 Let's make virtual classrooms more open, interactive, and accessible.
 
 
 
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Virtual-Classroom)]
