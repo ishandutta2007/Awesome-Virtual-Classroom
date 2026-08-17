@@ -40,45 +40,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Zoom](https://zoom.us/)**  
+| Platform | Description | Pricing (starting tier) | Free tier limits |
+|---|---|---|---|
+| **[Zoom](https://zoom.us/)** | Industry-standard video platform for virtual classes with breakout rooms, polling, whiteboard, recording, and AI companion notes. | **From $14.16/user/month** (Workplace Pro, billed annually; $16.99 monthly). | **Free forever (Basic):** 100 participants, 40-min group meetings (1:1 up to 30 hrs), AI summaries for 3 hosted meetings/month. |
+| **[Google Meet](https://meet.google.com/)** | Browser-based conferencing integrated with Google Workspace and Classroom; Drive recordings and breakout rooms (higher tiers). | **From $7/user/month** (Google Workspace Business Starter, annual billing; $8.40 flexible) — required to remove the 60-min cap. | **Free forever:** 100 participants, 60-min group meetings (1:1 up to 24 hrs). |
+| **[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/)** | Enterprise collaboration hub with class teams, assignments, gradebook, and deep Office 365/OneNote integration. | **From $4/user/month** (Teams Essentials); Microsoft 365 Business Basic $7/user/month (annual; $8.40 monthly). | **Free forever:** 100 participants, 60-min group meetings (1:1 up to 30 hrs), 5 GB storage. |
+| **[BigBlueButton](https://bigbluebutton.org/)** | Purpose-built open-source virtual classroom (also available as managed hosting) with multi-user whiteboard, breakout rooms, polling, shared notes, and Moodle/Canvas integration. | **Free (self-hosted, open source)**; managed hosting from ~$7.99–12.50/month (third-party providers). | **Free forever (self-hosted):** unlimited users/meetings — limited only by your own server capacity. |
+| **[Class Technologies](https://www.class.com/)** | Virtual classroom layer for active learning, engagement analytics, and institutional LMS ecosystems (formerly Class for Zoom). | **Institutional quote** (per-host/month licensing); no public list price. | **No free plan** — sales demo/pilot only. |
+| **[LearnCube](https://www.learncube.com/)** | Education-focused virtual classroom for online tutoring and language schools with whiteboard, content sharing, scheduling, and payments. | **From $19/month** (Virtual Classroom Pro); Online Language School from $99/month. | **Free forever (Virtual Classroom Basic):** 1 teacher, unlimited 1:1 classes, 10 saved files; 14-day free trial on paid plans. |
+| **[Electa Live](https://www.e-lecta.com/)** | Virtual classroom + LMS for interactive online teaching with whiteboard, breakout capabilities, and content tools. | **From $29.90/month** (Live Virtual Classroom; Pro $39.90/month; ~$299/year). | **2-week free trial** — no free-forever plan. |
+| **[Adobe Connect](https://www.adobe.com/products/adobeconnect.html)** | Mature enterprise virtual classroom and webinar platform with custom layouts, persistent rooms, SCORM support, and compliance. | **From ~$50/month** (Meetings plan, billed annually, 25 participants); Webinars from $130/month (100 attendees); Standard $190/year per host. | **30-day free trial** — no free-forever plan. |
+| **[Engageli](https://www.engageli.com/)** | Active-learning virtual classroom emphasizing measurable participation, analytics, and pedagogical features for higher ed, K-12, and corporate L&D. | **Institutional quote** (license- or usage-hour-based); no public list price. | **No free tier** — paid pilot program. |
+| **[ClickMeeting](https://clickmeeting.com/)** | Webinar and virtual classroom platform with easy setup, interactive tools, branding options, and automation. | **From ~$25/month** (Live plan, billed annually, 25 attendees; currently ~$37/month for 50); Automated from $40/month. | **14-day free trial** (25 attendees) — no free-forever plan. |
 
-  Industry-standard video platform widely used for virtual classes, with breakout rooms, polling, whiteboard, recording, AI companion notes, and education-specific plans/add-ons.
-
-- **[Google Meet](https://meet.google.com/)**  
-
-  Browser-based conferencing tightly integrated with Google Workspace and Classroom. Simple joining, Drive recordings, breakout rooms (higher tiers), and strong K-12 / education adoption.
-
-- **[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/)**  
-
-  Enterprise collaboration hub with class teams, assignments, gradebook, wellbeing tools, and deep Office 365 / OneNote integration — ideal for institutions already in the Microsoft ecosystem.
-
-- **[BigBlueButton](https://bigbluebutton.org/)**  
-
-  Purpose-built open-source virtual classroom (also available as managed hosting) with multi-user whiteboard, breakout rooms, polling, shared notes, learning analytics, and excellent Moodle/Canvas integration.
-
-- **[Class Technologies](https://www.class.com/)** (formerly Class for Zoom / Blackboard Collaborate lineage)  
-
-  Virtual classroom layer optimized for active learning, engagement analytics, and institutional LMS ecosystems.
-
-- **[LearnCube](https://www.learncube.com/)**  
-
-  Education-focused virtual classroom designed for online tutoring and language schools, featuring interactive whiteboard, content sharing, and teaching-specific tools.
-
-- **[Electa Live](https://www.e-lecta.com/)**  
-
-  Virtual classroom platform oriented toward interactive online teaching with whiteboard, breakout capabilities, and content tools.
-
-- **[Adobe Connect](https://www.adobe.com/products/adobeconnect.html)**  
-
-  Mature enterprise virtual classroom and webinar platform with custom layouts, persistent rooms, SCORM support, strong compliance features, and high customization for corporate training and education.
-
-- **[Engageli](https://www.engageli.com/)**  
-
-  Active-learning virtual classroom platform emphasizing measurable participation, analytics, and pedagogical features for higher education, K-12, and corporate L&D.
-
-- **[ClickMeeting](https://clickmeeting.com/)**  
-
-  Webinar and virtual classroom platform with easy setup, interactive tools, branding options, and support for training/webinar-style sessions.
+*Pricing and free-tier data researched August 2026 from official pricing pages; where a vendor does not publish prices (Class Technologies, Engageli), the most specific public information available is listed.*
 
 
 
